@@ -1,0 +1,19 @@
+.titulo-pagina {
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+.cuerpo {
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    text-align: center;
+}
+
+body { 
+    background-image: url(https://cdn.wallpapersafari.com/79/67/WIKTdZ.jpg);
+    background-color: black;
+}
+
+
